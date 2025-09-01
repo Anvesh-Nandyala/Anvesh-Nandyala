@@ -6,8 +6,6 @@ I'm <strong>Anvesh Reddy</strong>, an ECE student from India 👨‍💻 current
 
 ---
 
-- 🌱 Currently working on **<a href="https://github.com/Anvesh-Nandyala/Doctor_AppointmentSystem">Doctor Appointment System</a>**
-- 🧠 Exploring the world of computer networks and operating systems
 - ⚡ I enjoy tackling logical challenges and problem-solving tasks
 
 ---
